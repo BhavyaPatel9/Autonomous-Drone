@@ -74,6 +74,10 @@ This ensured **safe and repeatable testing before hardware flights**.
 
 ## 🎯 Precision Landing
 
+<p align="center">
+  <img src="Aruco_Landing_.gif" width="80%">
+</p>
+
 The landing system combines:
 
 **RTK-GPS**
@@ -107,6 +111,10 @@ A **custom GUI integrated with the GCS** provides:
 
 ## 🚀 System Workflow
 
+<p align="center">
+  <img src="full_mission_.gif" width="80%">
+</p>
+
 ```
 
 Mission Planning → MAVProxy / GUI
@@ -130,11 +138,10 @@ Autonomous Navigation & Precision Landing
 ✔ Telemetry monitoring  
 ✔ Simulation-first validation  
 
----
 
+---
 ## 👨‍💻 Author
 
 **Bhavya Patel**  
 ECE — Sardar Vallabhbhai National Institute of Technology (SVNIT)
 
-Autonomous UAV Systems • Robotics • Navigation • SLAM
