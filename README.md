@@ -21,6 +21,10 @@ The platform focuses on **high-precision navigation, autonomous mission executio
 
 Designed, built, and deployed a **fully autonomous UAV** capable of precision navigation and landing using **RTK-GPS and vision-based guidance**.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BhavyaPatel9/Autonomous-Drone/main/Smarthya_trophy.jpg" width="500">
+</p>
+
 ---
 
 ## ✨ Key Features
@@ -91,6 +95,10 @@ A **custom GUI integrated with the GCS** provides:
 - flight logs  
 - mission monitoring  
 - simplified mission control  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BhavyaPatel9/Autonomous-Drone/main/GUI.png" width="700">
+</p>
 
 ---
 
